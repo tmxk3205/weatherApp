@@ -1,0 +1,56 @@
+.text-center {
+  text-align: center;
+  justify-content: center;
+}
+
+.transparent {
+  background: transparent;
+}
+
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 25px;
+}
+h3 {
+  font-size: 60px;
+}
+
+.grey-jumbo {
+  margin-top: -30px;
+  border-radius: 0;
+  height: 500px;
+  color: white;
+  background-size: cover;
+  background-color: #43a5f5;
+}
+
+hr.short {
+  width: 100px;
+  border-bottom: 2px solid #fff;
+}
+
+h3.below {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px;
+}
+
+.top {
+  background: linear-gradient(145deg, #2347a1, #42a5f5);
+  color: #fff;
+  border-radius: 0;
+  height: 300px;
+}
+
+#info1,
+#info2 {
+  font-size: 30px;
+}
+#info3 {
+  font-size: 60px;
+}
+#info5,
+#info6 {
+  font-size: 30px;
+}
